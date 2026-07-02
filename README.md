@@ -26,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,4 +41,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
