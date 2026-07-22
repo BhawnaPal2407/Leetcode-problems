@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0989-add-to-array-form-of-integer](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/1518-water-bottles) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
