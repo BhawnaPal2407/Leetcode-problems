@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0704-binary-search) |
 | [0989-add-to-array-form-of-integer](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
