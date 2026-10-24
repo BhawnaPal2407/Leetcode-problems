@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0704-binary-search](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0704-binary-search) |
 | [0989-add-to-array-form-of-integer](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0380-insert-delete-getrandom-o1](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
@@ -161,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
