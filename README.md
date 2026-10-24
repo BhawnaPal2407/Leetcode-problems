@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0704-binary-search) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0169-majority-element) |
 ## Queue
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -131,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
