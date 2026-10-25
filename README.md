@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0045-jump-game-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0020-valid-parentheses) |
 ## Bracket Sequences
 |  |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/BhawnaPal2407/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
